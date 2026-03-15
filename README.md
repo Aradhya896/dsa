@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aradhya896/dsa/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
 | [2574-left-and-right-sum-differences](https://github.com/Aradhya896/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
