@@ -1,33 +1,17 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        /*int n=nums.length;
-       // int sum=0;
-        int c=0;
-        for(int i=0;i<n;i++){
-            int sum=0;
-            for(int j=i;j<n;j++){
-              // if(sum<k) {
-                sum=sum+nums[j];
-               
-               if(sum==k){
-                 c++;
-               }
-              
-            }
-            
-        }
-        return c;*/
-        int n=nums.length;
-        int c=0;
-        for(int i=0;i<n;i++){ 
-            int sum=0;
-            for(int j=i;j<n;j++){
-                sum+=nums[j];
-                if(sum==k){
-                    c++;
-                }
-            }
+         HashMap<Integer,Integer> mpp=new HashMap<>();
+   int prefixsum=0;
+   int c=0;
+   mpp.put(0,1);
+   for(int i:nums){
+     prefixsum+=i;
+ if(mpp.containsKey(prefixsum-k)){
+    c+=mpp.get(prefixsum-k);
+ }
+ mpp.put(prefixsum,mpp.getOrDefault(prefixsum,0)+1);
 
+   
         }
         return c;
     }
