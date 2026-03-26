@@ -112,5 +112,10 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aradhya896/dsa/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Aradhya896/dsa/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhya896/dsa/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aradhya896/dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
