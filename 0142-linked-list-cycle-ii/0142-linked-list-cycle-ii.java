@@ -11,7 +11,7 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        HashMap<ListNode, Integer>map=new HashMap<>();
+      /*  HashMap<ListNode, Integer>map=new HashMap<>();
 //ListNode fast = head;
        // ListNode slow = head;
        // ListNode pos = new ListNode(-1);
@@ -26,6 +26,27 @@ public class Solution {
         temp=temp.next;
         }
 
+        return null;*/
+         if (head == null ){
+            return null;
+
+         }
+         ListNode fast=head;
+         ListNode slow=head;
+         while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+             slow=slow.next; 
+            if (slow==fast) {
+               slow=head;
+               while(slow!=fast){
+               fast=fast.next;
+            slow=slow.next;
+            } 
+             return slow; }
+           
+           
+        }
+       
         return null;
     }
 }
