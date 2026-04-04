@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Aradhya896/dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 ## Binary Search
