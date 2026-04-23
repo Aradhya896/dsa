@@ -73,6 +73,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Aradhya896/dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aradhya896/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhya896/dsa/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
