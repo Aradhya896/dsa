@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Aradhya896/dsa/tree/master/0182-duplicate-emails) |
+| [0627-swap-sex-of-employees](https://github.com/Aradhya896/dsa/tree/master/0627-swap-sex-of-employees) |
 ## Greedy
 |  |
 | ------- |
