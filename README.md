@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aradhya896/dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aradhya896/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
