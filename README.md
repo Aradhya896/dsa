@@ -145,6 +145,7 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/Aradhya896/dsa/tree/master/0182-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Aradhya896/dsa/tree/master/0627-swap-sex-of-employees) |
+| [1251-average-selling-price](https://github.com/Aradhya896/dsa/tree/master/1251-average-selling-price) |
 ## Greedy
 |  |
 | ------- |
