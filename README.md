@@ -44,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aradhya896/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aradhya896/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aradhya896/dsa/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Aradhya896/dsa/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
@@ -130,6 +133,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aradhya896/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aradhya896/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aradhya896/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Aradhya896/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aradhya896/dsa/tree/master/0328-odd-even-linked-list) |
@@ -150,4 +154,8 @@
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhya896/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
