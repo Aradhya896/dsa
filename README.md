@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/Aradhya896/dsa/tree/master/0476-number-complement) |
 ## Sorting
 |  |
 | ------- |
