@@ -128,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Aradhya896/dsa/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,4 +186,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Aradhya896/dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
