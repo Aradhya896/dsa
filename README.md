@@ -29,6 +29,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aradhya896/dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhya896/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/Aradhya896/dsa/tree/master/2574-left-and-right-sum-differences) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
