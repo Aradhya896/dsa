@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
+| [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aradhya896/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhya896/dsa/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
@@ -202,4 +204,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
