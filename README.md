@@ -27,6 +27,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aradhya896/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/Aradhya896/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aradhya896/dsa/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhya896/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/Aradhya896/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -94,6 +95,7 @@
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aradhya896/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhya896/dsa/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Aradhya896/dsa/tree/master/0476-number-complement) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -212,4 +215,16 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
