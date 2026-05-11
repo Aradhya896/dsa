@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/Aradhya896/dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aradhya896/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
@@ -202,6 +203,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
