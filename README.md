@@ -97,6 +97,7 @@
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
+| [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aradhya896/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/Aradhya896/dsa/tree/master/2427-number-of-common-factors) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Aradhya896/dsa/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
