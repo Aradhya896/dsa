@@ -99,6 +99,7 @@
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
@@ -150,6 +151,7 @@
 | [0020-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Aradhya896/dsa/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
@@ -219,6 +221,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Aradhya896/dsa/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
