@@ -92,6 +92,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3945-digit-frequency-score](https://github.com/Aradhya896/dsa/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aradhya896/dsa/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3516-find-closest-person](https://github.com/Aradhya896/dsa/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhya896/dsa/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/Aradhya896/dsa/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
