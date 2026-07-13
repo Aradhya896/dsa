@@ -57,6 +57,7 @@
 | [0075-sort-colors](https://github.com/Aradhya896/dsa/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Aradhya896/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aradhya896/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Aradhya896/dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aradhya896/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Aradhya896/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
@@ -187,6 +189,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aradhya896/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aradhya896/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aradhya896/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Aradhya896/dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aradhya896/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Aradhya896/dsa/tree/master/0206-reverse-linked-list) |
@@ -199,6 +202,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aradhya896/dsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aradhya896/dsa/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Aradhya896/dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aradhya896/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
