@@ -180,10 +180,12 @@
 | [0020-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Aradhya896/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aradhya896/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -278,4 +280,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
