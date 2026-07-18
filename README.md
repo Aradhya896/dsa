@@ -24,6 +24,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Aradhya896/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Aradhya896/dsa/tree/master/0622-design-circular-queue) |
 | [0896-monotonic-array](https://github.com/Aradhya896/dsa/tree/master/0896-monotonic-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aradhya896/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/Aradhya896/dsa/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
@@ -202,6 +204,7 @@
 | [0206-reverse-linked-list](https://github.com/Aradhya896/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aradhya896/dsa/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Aradhya896/dsa/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhya896/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhya896/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -293,4 +296,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Aradhya896/dsa/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
