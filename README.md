@@ -178,6 +178,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhya896/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Aradhya896/dsa/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aradhya896/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aradhya896/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -195,6 +196,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Aradhya896/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aradhya896/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aradhya896/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
