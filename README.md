@@ -71,6 +71,7 @@
 | [0344-reverse-string](https://github.com/Aradhya896/dsa/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhya896/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhya896/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 ## Divide and Conquer
@@ -182,6 +183,7 @@
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Aradhya896/dsa/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aradhya896/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aradhya896/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -200,6 +202,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/Aradhya896/dsa/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aradhya896/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aradhya896/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
