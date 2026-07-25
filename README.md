@@ -132,6 +132,7 @@
 | [2427-number-of-common-factors](https://github.com/Aradhya896/dsa/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aradhya896/dsa/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3516-find-closest-person](https://github.com/Aradhya896/dsa/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aradhya896/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aradhya896/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhya896/dsa/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Aradhya896/dsa/tree/master/3945-digit-frequency-score) |
@@ -165,6 +166,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aradhya896/dsa/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aradhya896/dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
