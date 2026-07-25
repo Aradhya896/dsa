@@ -253,6 +253,7 @@
 | [0183-customers-who-never-order](https://github.com/Aradhya896/dsa/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Aradhya896/dsa/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/Aradhya896/dsa/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Aradhya896/dsa/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Aradhya896/dsa/tree/master/0627-swap-sex-of-employees) |
 | [1251-average-selling-price](https://github.com/Aradhya896/dsa/tree/master/1251-average-selling-price) |
 ## Greedy
