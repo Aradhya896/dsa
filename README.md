@@ -262,6 +262,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Aradhya896/dsa/tree/master/0627-swap-sex-of-employees) |
 | [1211-queries-quality-and-percentage](https://github.com/Aradhya896/dsa/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Aradhya896/dsa/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Aradhya896/dsa/tree/master/1280-students-and-examinations) |
 ## Greedy
 |  |
 | ------- |
