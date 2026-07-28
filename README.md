@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aradhya896/dsa/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aradhya896/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aradhya896/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -357,6 +359,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aradhya896/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -368,10 +371,15 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aradhya896/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
