@@ -26,6 +26,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/Aradhya896/dsa/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Aradhya896/dsa/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhya896/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -299,6 +300,7 @@
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Aradhya896/dsa/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Aradhya896/dsa/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
