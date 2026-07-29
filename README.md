@@ -89,6 +89,7 @@
 | [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhya896/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aradhya896/dsa/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 ## Merge Sort
@@ -363,6 +365,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -375,13 +378,16 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
