@@ -50,6 +50,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Aradhya896/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aradhya896/dsa/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3731-find-missing-elements](https://github.com/Aradhya896/dsa/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Prefix Sum
 |  |
@@ -117,6 +118,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Aradhya896/dsa/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aradhya896/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Aradhya896/dsa/tree/master/3945-digit-frequency-score) |
@@ -181,6 +183,7 @@
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aradhya896/dsa/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aradhya896/dsa/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Aradhya896/dsa/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
