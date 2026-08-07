@@ -384,6 +384,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aradhya896/dsa/tree/master/0617-merge-two-binary-trees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aradhya896/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -401,6 +402,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aradhya896/dsa/tree/master/0617-merge-two-binary-trees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aradhya896/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aradhya896/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
