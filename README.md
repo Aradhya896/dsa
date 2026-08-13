@@ -33,6 +33,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Aradhya896/dsa/tree/master/0896-monotonic-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aradhya896/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -94,6 +95,7 @@
 | [0148-sort-list](https://github.com/Aradhya896/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -140,6 +142,7 @@
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhya896/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aradhya896/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -182,6 +185,7 @@
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhya896/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
@@ -193,6 +197,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -308,6 +313,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -437,4 +443,12 @@
 | [0938-range-sum-of-bst](https://github.com/Aradhya896/dsa/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aradhya896/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
