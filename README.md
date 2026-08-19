@@ -26,6 +26,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Aradhya896/dsa/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Aradhya896/dsa/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Aradhya896/dsa/tree/master/0622-design-circular-queue) |
