@@ -102,6 +102,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aradhya896/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aradhya896/dsa/tree/master/0344-reverse-string) |
@@ -349,6 +351,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
@@ -456,4 +459,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
