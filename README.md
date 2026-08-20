@@ -173,6 +173,7 @@
 | [0476-number-complement](https://github.com/Aradhya896/dsa/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aradhya896/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aradhya896/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aradhya896/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -348,6 +350,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
 | ------- |
