@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aradhya896/dsa/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aradhya896/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -170,6 +171,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Aradhya896/dsa/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
@@ -352,6 +354,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
