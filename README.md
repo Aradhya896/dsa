@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aradhya896/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/Aradhya896/dsa/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Aradhya896/dsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aradhya896/dsa/tree/master/0283-move-zeroes) |
@@ -362,6 +363,7 @@
 | [0040-combination-sum-ii](https://github.com/Aradhya896/dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aradhya896/dsa/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Aradhya896/dsa/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
