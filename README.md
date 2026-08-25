@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aradhya896/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aradhya896/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Aradhya896/dsa/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -225,6 +226,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aradhya896/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aradhya896/dsa/tree/master/0344-reverse-string) |
@@ -365,6 +367,7 @@
 | [0039-combination-sum](https://github.com/Aradhya896/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aradhya896/dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aradhya896/dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aradhya896/dsa/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -384,6 +387,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/Aradhya896/dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Memoization
 |  |
@@ -449,6 +453,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
