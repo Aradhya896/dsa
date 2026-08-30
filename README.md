@@ -111,6 +111,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
@@ -144,6 +145,7 @@
 | [0002-add-two-numbers](https://github.com/Aradhya896/dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aradhya896/dsa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Aradhya896/dsa/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aradhya896/dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
@@ -395,6 +397,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
