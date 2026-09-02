@@ -9,6 +9,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Aradhya896/dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aradhya896/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aradhya896/dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Aradhya896/dsa/tree/master/0051-n-queens) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aradhya896/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aradhya896/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Aradhya896/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aradhya896/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aradhya896/dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -370,6 +372,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aradhya896/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aradhya896/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aradhya896/dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Aradhya896/dsa/tree/master/0051-n-queens) |
@@ -393,6 +396,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/Aradhya896/dsa/tree/master/1572-matrix-diagonal-sum) |
@@ -494,5 +498,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aradhya896/dsa/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
