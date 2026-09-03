@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aradhya896/dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Aradhya896/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhya896/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
@@ -114,6 +115,7 @@
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
@@ -445,6 +447,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Aradhya896/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Aradhya896/dsa/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -504,4 +507,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
