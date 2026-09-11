@@ -50,6 +50,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aradhya896/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aradhya896/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aradhya896/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aradhya896/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -129,6 +130,7 @@
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aradhya896/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
