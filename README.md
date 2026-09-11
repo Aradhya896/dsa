@@ -48,6 +48,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/Aradhya896/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aradhya896/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aradhya896/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -126,6 +127,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
+| [0983-minimum-cost-for-tickets](https://github.com/Aradhya896/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
