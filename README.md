@@ -68,6 +68,7 @@
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aradhya896/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aradhya896/dsa/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Aradhya896/dsa/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aradhya896/dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -151,6 +152,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aradhya896/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Aradhya896/dsa/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aradhya896/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -317,6 +319,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aradhya896/dsa/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
 | ------- |
@@ -409,6 +412,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Aradhya896/dsa/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aradhya896/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
