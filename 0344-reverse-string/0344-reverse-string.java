@@ -1,11 +1,14 @@
 class Solution {
     public void reverseString(char[] s) {
-        int n=s.length;
-        //char temp='';
-        for(int i=0;i<n/2;i++){
-            char temp=s[i];
-            s[i]=s[n-1-i];
-            s[n-1-i]=temp;
+        func(s,0,s.length-1);
+    }
+    void func(char[] s , int i,int j){
+        if(i>=j){
+            return;
         }
+       char temp=s[i];
+       s[i]=s[j];
+       s[j]=temp;
+       func(s,i+1,j-1);
     }
 }
