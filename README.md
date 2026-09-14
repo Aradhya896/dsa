@@ -169,6 +169,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aradhya896/dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aradhya896/dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aradhya896/dsa/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Aradhya896/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Aradhya896/dsa/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
@@ -319,6 +321,7 @@
 | [0050-powx-n](https://github.com/Aradhya896/dsa/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Aradhya896/dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aradhya896/dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Aradhya896/dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aradhya896/dsa/tree/master/2487-remove-nodes-from-linked-list) |
