@@ -173,6 +173,7 @@
 | [0258-add-digits](https://github.com/Aradhya896/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aradhya896/dsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aradhya896/dsa/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhya896/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -212,6 +213,7 @@
 | [0090-subsets-ii](https://github.com/Aradhya896/dsa/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Aradhya896/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aradhya896/dsa/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Aradhya896/dsa/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Aradhya896/dsa/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhya896/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
@@ -328,6 +330,7 @@
 | [0231-power-of-two](https://github.com/Aradhya896/dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Aradhya896/dsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aradhya896/dsa/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aradhya896/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
