@@ -65,6 +65,7 @@
 | [1929-concatenation-of-array](https://github.com/Aradhya896/dsa/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhya896/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhya896/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Aradhya896/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
@@ -156,6 +157,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Aradhya896/dsa/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
@@ -243,6 +245,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aradhya896/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aradhya896/dsa/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -342,6 +345,7 @@
 | [0326-power-of-three](https://github.com/Aradhya896/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aradhya896/dsa/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aradhya896/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
@@ -434,6 +438,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Aradhya896/dsa/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aradhya896/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
