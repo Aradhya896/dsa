@@ -73,6 +73,7 @@
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Aradhya896/dsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Aradhya896/dsa/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aradhya896/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Aradhya896/dsa/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhya896/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aradhya896/dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -205,6 +206,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aradhya896/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Aradhya896/dsa/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aradhya896/dsa/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aradhya896/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aradhya896/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhya896/dsa/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Aradhya896/dsa/tree/master/3870-count-commas-in-range) |
