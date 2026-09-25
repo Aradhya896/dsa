@@ -581,6 +581,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aradhya896/dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Longest Common Subsequence
 |  |
 | ------- |
