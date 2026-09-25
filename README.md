@@ -128,6 +128,7 @@
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Aradhya896/dsa/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/Aradhya896/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
@@ -280,6 +281,7 @@
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aradhya896/dsa/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Aradhya896/dsa/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aradhya896/dsa/tree/master/0344-reverse-string) |
