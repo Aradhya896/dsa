@@ -1,19 +1,18 @@
 class Solution {
     int dp[]=new int[101];
     public int rob(int[] nums) {
-        if(nums.length==0){
+        Arrays.fill(dp,-1);
+        return func(nums,0);
+    }
+    int func(int[] nums, int i){
+        if(i>=nums.length){
             return 0;
         }
-      int i=0;
-        dp[0]=0;
-        dp[1]=nums[i];
-        //int c=0;
-        for(i=2;i<=nums.length;i++){
-     
-        
-        int a=nums[i-1]+dp[i-2];
-          int b=dp[i-1];
-        dp[i]=Math.max(a,b);
+        if(dp[i]!=-1){
+            return dp[i];
         }
-        return dp[nums.length];
-    }}
+        int a=nums[i]+func(nums,i+2);
+        int b=func(nums,i+1);
+      return dp[i]=Math.max(a,b);
+    }
+}
