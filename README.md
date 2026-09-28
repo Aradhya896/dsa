@@ -66,6 +66,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aradhya896/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aradhya896/dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Aradhya896/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/Aradhya896/dsa/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhya896/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhya896/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -150,6 +151,7 @@
 | [1035-uncrossed-lines](https://github.com/Aradhya896/dsa/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/Aradhya896/dsa/tree/master/1143-longest-common-subsequence) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Aradhya896/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Aradhya896/dsa/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Aradhya896/dsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Hash Table
