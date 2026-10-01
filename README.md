@@ -71,6 +71,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhya896/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhya896/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhya896/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Aradhya896/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
@@ -152,6 +153,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/Aradhya896/dsa/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aradhya896/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhya896/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Aradhya896/dsa/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Aradhya896/dsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Hash Table
@@ -480,6 +482,7 @@
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/Aradhya896/dsa/tree/master/1572-matrix-diagonal-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhya896/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
@@ -583,6 +586,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aradhya896/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aradhya896/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aradhya896/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhya896/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
 |  |
 | ------- |
