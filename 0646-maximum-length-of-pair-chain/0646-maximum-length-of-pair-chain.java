@@ -5,7 +5,7 @@ class Solution {
 Arrays.sort(nums, (a, b) -> a[0] - b[0]);
     
         for(int i[]:dp){
-        Arrays.fill(i,-99);
+        Arrays.fill(i,-1);
            }   return  func(nums,0,-1);
     }
     public int func(int nums[][], int idx, int prevIdx){
@@ -13,7 +13,7 @@ Arrays.sort(nums, (a, b) -> a[0] - b[0]);
         if(idx==nums.length){
             return 0;
         }
-        if(dp[idx][prevIdx+1]!=-99){
+        if(dp[idx][prevIdx+1]!=-1){
            return  dp[idx][prevIdx+1];
         }
         
