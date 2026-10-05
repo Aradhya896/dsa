@@ -58,6 +58,7 @@
 | [1035-uncrossed-lines](https://github.com/Aradhya896/dsa/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aradhya896/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aradhya896/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +116,7 @@
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhya896/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhya896/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
@@ -153,6 +155,7 @@
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/Aradhya896/dsa/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Aradhya896/dsa/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aradhya896/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhya896/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -176,6 +179,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Aradhya896/dsa/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -265,6 +269,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
@@ -308,6 +313,7 @@
 | [0796-rotate-string](https://github.com/Aradhya896/dsa/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Aradhya896/dsa/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aradhya896/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aradhya896/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aradhya896/dsa/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aradhya896/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
