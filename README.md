@@ -48,6 +48,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhya896/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Aradhya896/dsa/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
@@ -154,6 +155,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aradhya896/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aradhya896/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aradhya896/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
