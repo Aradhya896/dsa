@@ -21,6 +21,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Aradhya896/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Aradhya896/dsa/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Aradhya896/dsa/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aradhya896/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aradhya896/dsa/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Aradhya896/dsa/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Aradhya896/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aradhya896/dsa/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aradhya896/dsa/tree/master/0300-longest-increasing-subsequence) |
