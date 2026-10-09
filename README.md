@@ -117,6 +117,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aradhya896/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aradhya896/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aradhya896/dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aradhya896/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Aradhya896/dsa/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhya896/dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -315,6 +316,7 @@
 | [0242-valid-anagram](https://github.com/Aradhya896/dsa/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Aradhya896/dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aradhya896/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhya896/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aradhya896/dsa/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
