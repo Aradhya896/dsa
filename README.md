@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/Aradhya896/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Aradhya896/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
@@ -140,6 +141,7 @@
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aradhya896/dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aradhya896/dsa/tree/master/0118-pascals-triangle) |
@@ -511,6 +513,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aradhya896/dsa/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/Aradhya896/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/Aradhya896/dsa/tree/master/1572-matrix-diagonal-sum) |
