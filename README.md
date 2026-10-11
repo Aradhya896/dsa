@@ -82,6 +82,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhya896/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Aradhya896/dsa/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aradhya896/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Aradhya896/dsa/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aradhya896/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Aradhya896/dsa/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -521,6 +522,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Aradhya896/dsa/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aradhya896/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aradhya896/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
