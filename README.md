@@ -16,6 +16,7 @@
 | [0051-n-queens](https://github.com/Aradhya896/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aradhya896/dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Aradhya896/dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Aradhya896/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aradhya896/dsa/tree/master/0078-subsets) |
@@ -150,6 +151,7 @@
 | [0022-generate-parentheses](https://github.com/Aradhya896/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aradhya896/dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aradhya896/dsa/tree/master/0115-distinct-subsequences) |
@@ -451,6 +453,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aradhya896/dsa/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
