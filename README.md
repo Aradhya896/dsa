@@ -49,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/Aradhya896/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aradhya896/dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya896/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Aradhya896/dsa/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/Aradhya896/dsa/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhya896/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
@@ -297,6 +298,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Aradhya896/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Aradhya896/dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhya896/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
@@ -459,6 +461,7 @@
 | [0055-jump-game](https://github.com/Aradhya896/dsa/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Aradhya896/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Aradhya896/dsa/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aradhya896/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aradhya896/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -690,4 +693,8 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aradhya896/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/Aradhya896/dsa/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Aradhya896/dsa/tree/master/1143-longest-common-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Aradhya896/dsa/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
