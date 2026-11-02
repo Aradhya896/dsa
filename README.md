@@ -69,6 +69,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aradhya896/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aradhya896/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -206,6 +207,7 @@
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Aradhya896/dsa/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -304,6 +306,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aradhya896/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
@@ -697,4 +700,13 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Aradhya896/dsa/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
