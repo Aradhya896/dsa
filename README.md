@@ -72,6 +72,7 @@
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aradhya896/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aradhya896/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aradhya896/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Aradhya896/dsa/tree/master/1572-matrix-diagonal-sum) |
@@ -136,6 +137,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Aradhya896/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aradhya896/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhya896/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Aradhya896/dsa/tree/master/2367-number-of-arithmetic-triplets) |
@@ -275,6 +277,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Aradhya896/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Aradhya896/dsa/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aradhya896/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aradhya896/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aradhya896/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -309,6 +312,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aradhya896/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aradhya896/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
