@@ -253,6 +253,7 @@
 | [2427-number-of-common-factors](https://github.com/Aradhya896/dsa/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aradhya896/dsa/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aradhya896/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aradhya896/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aradhya896/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Aradhya896/dsa/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aradhya896/dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -292,6 +293,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aradhya896/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -448,6 +450,7 @@
 | [0509-fibonacci-number](https://github.com/Aradhya896/dsa/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aradhya896/dsa/tree/master/2487-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aradhya896/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aradhya896/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
@@ -504,6 +507,7 @@
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Aradhya896/dsa/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Aradhya896/dsa/tree/master/1929-concatenation-of-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aradhya896/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aradhya896/dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
