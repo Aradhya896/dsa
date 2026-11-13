@@ -57,6 +57,7 @@
 | [0724-find-pivot-index](https://github.com/Aradhya896/dsa/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Aradhya896/dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Aradhya896/dsa/tree/master/0896-monotonic-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Aradhya896/dsa/tree/master/0931-minimum-falling-path-sum) |
@@ -478,6 +479,7 @@
 | [0561-array-partition](https://github.com/Aradhya896/dsa/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aradhya896/dsa/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Aradhya896/dsa/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aradhya896/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aradhya896/dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
