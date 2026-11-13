@@ -1,0 +1,40 @@
+class Solution {
+    public boolean lemonadeChange(int[] bills) {
+       // Arrays.sort(bills);
+       // boolean ans=true;
+         int c5=0;
+            int c10=0;
+        for(int i=0;i<bills.length;i++){
+           
+            if(bills[i]==5){
+            c5++;
+            }
+            else if(bills[i]==10){
+                //bills[i]-=5;
+                if(c5>0){
+                c10++;
+                c5--;}
+                else{
+                return false;
+            }}
+            else{
+               if(c10>0 && c5>0) {
+                c10--;
+                c5--;
+            }
+            else if(c5>=3){
+                c5-=3;
+               
+            }else{
+            return  false;
+            }}
+           // if(c5==0 ){
+              //  ans=false;
+          //  }
+                
+            }
+            
+        
+        return true;
+    }
+}
