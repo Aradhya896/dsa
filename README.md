@@ -386,6 +386,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aradhya896/dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aradhya896/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aradhya896/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Aradhya896/dsa/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aradhya896/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -524,6 +525,7 @@
 | [0412-fizz-buzz](https://github.com/Aradhya896/dsa/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Aradhya896/dsa/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Aradhya896/dsa/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aradhya896/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aradhya896/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aradhya896/dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
