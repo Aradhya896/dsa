@@ -64,6 +64,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Aradhya896/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aradhya896/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0976-largest-perimeter-triangle](https://github.com/Aradhya896/dsa/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aradhya896/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aradhya896/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -253,6 +254,7 @@
 | [0836-rectangle-overlap](https://github.com/Aradhya896/dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Aradhya896/dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Aradhya896/dsa/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhya896/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aradhya896/dsa/tree/master/1486-xor-operation-in-an-array) |
@@ -321,6 +323,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Aradhya896/dsa/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhya896/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Aradhya896/dsa/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aradhya896/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
@@ -494,6 +497,7 @@
 | [0860-lemonade-change](https://github.com/Aradhya896/dsa/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Aradhya896/dsa/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aradhya896/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/Aradhya896/dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aradhya896/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aradhya896/dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aradhya896/dsa/tree/master/1710-maximum-units-on-a-truck) |
@@ -734,6 +738,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aradhya896/dsa/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/Aradhya896/dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
@@ -743,4 +748,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Aradhya896/dsa/tree/master/0881-boats-to-save-people) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Aradhya896/dsa/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
