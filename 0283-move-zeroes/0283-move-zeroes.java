@@ -56,6 +56,7 @@ class Solution {
         for(int i=0;i<a.length;i++){
             arr[i]=a[i];
         
-        }
+        } 
+        
             }}
         
