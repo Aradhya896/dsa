@@ -49,14 +49,16 @@ class Solution {
         int j=0;
         for(int i=0;i<arr.length;i++){
         if(arr[i]!=0){
-            a[j]=arr[i];
+            int temp=arr[j];
+            arr[j]=arr[i];
+            arr[i]=temp;
             j++;
         }
         }
-        for(int i=0;i<a.length;i++){
-            arr[i]=a[i];
+      //  for(int i=0;i<a.length;i++){
+         //   arr[i]=a[i];
         
-        } 
-        
+       // } 
+
             }}
         
