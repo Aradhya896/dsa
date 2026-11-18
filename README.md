@@ -400,6 +400,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Aradhya896/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aradhya896/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Aradhya896/dsa/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aradhya896/dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aradhya896/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aradhya896/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aradhya896/dsa/tree/master/3498-reverse-degree-of-a-string) |
