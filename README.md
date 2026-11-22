@@ -170,6 +170,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aradhya896/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aradhya896/dsa/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Aradhya896/dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aradhya896/dsa/tree/master/0115-distinct-subsequences) |
@@ -243,6 +244,7 @@
 | [0002-add-two-numbers](https://github.com/Aradhya896/dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aradhya896/dsa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Aradhya896/dsa/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Aradhya896/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhya896/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aradhya896/dsa/tree/master/0172-factorial-trailing-zeroes) |
@@ -578,6 +580,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aradhya896/dsa/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aradhya896/dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
