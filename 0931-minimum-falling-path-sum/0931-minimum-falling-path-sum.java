@@ -1,37 +1,39 @@
 class Solution {
-    int dp[][]=new int[201][201];
+   
     public int minFallingPathSum(int[][] matrix) {
-
-        int m=Integer.MAX_VALUE;
-        int ans=Integer.MAX_VALUE;
-        for(int i[]:dp){
-            Arrays.fill(i,-1000);
-        }
-for (int j = 0; j < matrix[0].length; j++) {
-            ans = Math.min(ans, func(matrix, 0, j));
-        }
-
-        return ans;
+        int m=matrix.length;
+        int n=matrix[0].length;
+         int dp[][]=new int[m][n];
+         for(int row[]:dp){
+            Arrays.fill(row,-102);
+         }
+       int ans=Integer.MAX_VALUE;
+       for(int i=0;i<n;i++){
+      ans=Math.min(ans, func(m-1,i,matrix,dp)) ;
     }
-    int func(int matrix[][],int i,int j){
-int m=matrix.length;
-int n=matrix[0].length;
-if(j<0 || j>=n){
-    return Integer.MAX_VALUE;
-}  if(i==m-1 ){
-return matrix[i][j];
-
-}   
-if(dp[i][j]!=-1000){
-    return dp[i][j];
-
-}
-int a=func(matrix,i+1,j-1);
-int b=func(matrix,i+1,j);
-   int c=func(matrix,i+1,j+1);
-   int min=Math.min(a,Math.min(b,c));
-
-   return dp[i][j]=matrix[i][j]+min;
+    return ans;
     }
+    int func(int r,int c,int arr[][],int dp[][]){
+        if(c<0|| c>=arr[0].length){
+            return Integer.MAX_VALUE;
+        }
+        if(r==0){
+            return arr[0][c];
+        }
+        if(dp[r][c]!=-102){
+            return dp[r][c];
+        }
+        //int min=Integer.MAX_VALUE;
+        int leftDiag=func(r-1,c-1,arr,dp);
+        int up=func(r-1,c,arr,dp);
+        int rightDiag=func(r-1,c+1,arr,dp);
 
+   int min = Math.min(up, Math.min(leftDiag, rightDiag));
+
+//if(min == Integer.MAX_VALUE) {
+   // return Integer.MAX_VALUE;
+//}
+
+return dp[r][c]=arr[r][c] + min;
+    }
 }
