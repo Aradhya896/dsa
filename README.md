@@ -59,6 +59,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Aradhya896/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/Aradhya896/dsa/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Aradhya896/dsa/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Aradhya896/dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
@@ -192,6 +193,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aradhya896/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aradhya896/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Aradhya896/dsa/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Aradhya896/dsa/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aradhya896/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Aradhya896/dsa/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Aradhya896/dsa/tree/master/0931-minimum-falling-path-sum) |
@@ -605,6 +607,7 @@
 | [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aradhya896/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
+| [0741-cherry-pickup](https://github.com/Aradhya896/dsa/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Aradhya896/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/Aradhya896/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhya896/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
