@@ -6,14 +6,15 @@ class Solution {
         for(int i:nums){
             s+=i;
         }
+        if(s % 2 != 0) return false;
+        
         int target=s/2;
     int  dp[][]=new int [n][target+1];
 
       for(int row[]:dp){
         Arrays.fill(row,-1);
       }
-      if(s % 2 != 0) return false;
-        
+      
         return func(nums.length-1,target,nums,dp);
     }
     boolean func(int i,int target,int arr[],int dp[][]){
