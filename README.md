@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/Aradhya896/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aradhya896/dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aradhya896/dsa/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Aradhya896/dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aradhya896/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Aradhya896/dsa/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Aradhya896/dsa/tree/master/0216-combination-sum-iii) |
@@ -618,6 +619,7 @@
 | [0064-minimum-path-sum](https://github.com/Aradhya896/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aradhya896/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Aradhya896/dsa/tree/master/0200-number-of-islands) |
 | [0741-cherry-pickup](https://github.com/Aradhya896/dsa/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Aradhya896/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aradhya896/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -669,6 +671,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aradhya896/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Aradhya896/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Aradhya896/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
@@ -695,6 +698,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Aradhya896/dsa/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Aradhya896/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhya896/dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -793,6 +797,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aradhya896/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aradhya896/dsa/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
