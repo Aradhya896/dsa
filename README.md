@@ -78,6 +78,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Aradhya896/dsa/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Aradhya896/dsa/tree/master/1049-last-stone-weight-ii) |
 | [1122-relative-sort-array](https://github.com/Aradhya896/dsa/tree/master/1122-relative-sort-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aradhya896/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aradhya896/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -206,6 +207,7 @@
 | [1035-uncrossed-lines](https://github.com/Aradhya896/dsa/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aradhya896/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aradhya896/dsa/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Aradhya896/dsa/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aradhya896/dsa/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aradhya896/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aradhya896/dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -748,6 +750,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/Aradhya896/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aradhya896/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Aradhya896/dsa/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -799,4 +802,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Aradhya896/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Aradhya896/dsa/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
